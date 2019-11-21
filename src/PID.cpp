@@ -24,12 +24,16 @@ void PID::UpdateError(double cte) {
   /**
    * TODO: Update PID errors based on cte.
    */
-
+  p_error = cte;
+  i_error += cte;
+  d_error = cte - prev_cte;
+  prev_cte = cte;
 }
 
 double PID::TotalError() {
   /**
    * TODO: Calculate and return the total error
    */
-  return 0.0;  // TODO: Add your total error calc here!
+  double totalError = -Kp * p_error - Ki * i_error*0.01 - Kd * d_error/0.01;
+  return totalError;  // TODO: Add your total error calc here!
 }

@@ -38,9 +38,14 @@ int main() {
   /**
    * TODO: Initialize the pid variable.
    */
-   pid.Init(0.1,0.00001,1);
+  pid.Init(0.05,0.00001,1.5);
+  std::chrono::time_point<std::chrono::system_clock> time;
 
-  h.onMessage([&pid](uWS::WebSocket<uWS::SERVER> ws, char *data, size_t length, 
+
+  time = std::chrono::system_clock::now();
+  std::chrono::duration<double> elapsed_seconds;
+
+  h.onMessage([&pid, &time, &elapsed_seconds](uWS::WebSocket<uWS::SERVER> ws, char *data, size_t length,
                      uWS::OpCode opCode) {
     // "42" at the start of the message means there's a websocket message event.
     // The 4 signifies a websocket message
@@ -65,7 +70,15 @@ int main() {
            * NOTE: Feel free to play around with the throttle and speed.
            *   Maybe use another PID controller to control the speed!
            */
-          
+          std::chrono::time_point<std::chrono::system_clock> temp_time;
+          temp_time = std::chrono::system_clock::now();
+          elapsed_seconds = temp_time-time;
+          time = temp_time;
+          std::cout << "elapsed time: " << elapsed_seconds.count() << "s\n";
+
+          pid.UpdateError(cte);
+          steer_value = pid.TotalError();
+
           // DEBUG
           std::cout << "CTE: " << cte << " Steering Value: " << steer_value 
                     << std::endl;

@@ -36,6 +36,7 @@ class PID {
    * PID Errors
    */
   double p_error;
+  double prev_cte;
   double i_error;
   double d_error;
 
