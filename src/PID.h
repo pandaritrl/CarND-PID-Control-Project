@@ -1,5 +1,6 @@
 #ifndef PID_H
 #define PID_H
+#include <vector>
 
 class PID {
  public:
@@ -14,10 +15,20 @@ class PID {
   virtual ~PID();
 
   /**
+   * Helper for twiddle tune
+   */
+  void hyperparam_change(int index, double amount);
+
+  /**
+   * Twiddle tunes PID
+   */
+  double CalculateTwiddleIter(double cte);
+
+  /**
    * Initialize PID.
    * @param (Kp_, Ki_, Kd_) The initial PID coefficients
    */
-  void Init(double Kp_, double Ki_, double Kd_);
+  void Init(double Kp_, double Ki_, double Kd_, double Delta_T_);
 
   /**
    * Update the PID error variables given cross track error.
@@ -46,6 +57,17 @@ class PID {
   double Kp;
   double Ki;
   double Kd;
+  double Delta_T;
+
+  /*
+  * Twiddle variables
+  */
+  std::vector<double> dp;
+  int step, param_index;
+  // number of steps to allow changes to settle, then to evaluate error
+  int n_settle_steps, n_eval_steps;
+  double total_error, best_error;
+  bool tried_adding, tried_subtracting, enable_twiddle;
 };
 
 #endif  // PID_H

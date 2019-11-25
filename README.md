@@ -1,7 +1,33 @@
 # CarND-Controls-PID
 Self-Driving Car Engineer Nanodegree Program
 
----
+## Introduction
+The purpose of this project was to build a PID controller and tune the controller to drive a car on a
+simulator given the cross track error (CTE) and speed of the vehicle via uws socket. The controller 
+provides the throttle and steer value for longitudinal and lateral control.
+
+## Rubric
+
+_Describe the effect each of the P, I, D components had in your implementation._
+
+Only With Kp
+
+[![Only With Kp](https://www.youtube.com/channel/UCOmLbvpSUozxJM-cS8ggDLA/)](https://youtu.be/CTqjJojyRcU)
+
+
+With Kp and Kd
+
+[![With Kp and Kd](https://img.youtube.com/vi/EmjfKmmYXx0/0.jpg)](https://youtu.be/_SQNph693kM)
+
+
+With twiddle tuned PID
+
+[![With twiddle tuned PID](https://img.youtube.com/vi/EmjfKmmYXx0/0.jpg)](https://youtu.be/736S8ZEYA3U)
+
+
+_Describe how the final hyperparameters were chosen._
+
+## Original Question ReadMe
 
 ## Dependencies
 
