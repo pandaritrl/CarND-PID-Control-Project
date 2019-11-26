@@ -1,0 +1,2394 @@
+/home/pandari/Documents/udacity/CarND-PID-Control-Project/cmake-build-debug/pid
+Listening to port 4567
+Connected!!!
+step: 1600
+total error: 1450.9
+best error: 1.79769e+308
+improvement!
+new parameters
+P: 0.088, I: 0.0005, D: 0.05
+step: 3200
+total error: 1093.24
+best error: 1450.9
+improvement!
+new parameters
+P: 0.088, I: 0.0005, D: 0.055
+step: 4800
+total error: 1470.24
+best error: 1093.24
+new parameters
+P: 0.088, I: 0.0005, D: 0.045
+step: 6400
+total error: 920.065
+best error: 1093.24
+improvement!
+new parameters
+P: 0.088, I: 0.00055, D: 0.045
+step: 8000
+total error: 1101.42
+best error: 920.065
+new parameters
+P: 0.088, I: 0.00045, D: 0.045
+step: 9600
+total error: 1508.95
+best error: 920.065
+new parameters
+P: 0.088, I: 0.0005, D: 0.045
+step: 11200
+total error: 946.37
+best error: 920.065
+new parameters
+P: 0.0968, I: 0.0005, D: 0.045
+step: 12800
+total error: 968.664
+best error: 920.065
+new parameters
+P: 0.0792, I: 0.0005, D: 0.045
+step: 14400
+total error: 1302.93
+best error: 920.065
+new parameters
+P: 0.088, I: 0.0005, D: 0.045
+step: 16000
+total error: 966.746
+best error: 920.065
+new parameters
+P: 0.088, I: 0.0005, D: 0.0505
+step: 17600
+total error: 1278.77
+best error: 920.065
+new parameters
+P: 0.088, I: 0.0005, D: 0.0395
+step: 19200
+total error: 1111.9
+best error: 920.065
+new parameters
+P: 0.088, I: 0.0005, D: 0.045
+step: 20800
+total error: 972.201
+best error: 920.065
+new parameters
+P: 0.088, I: 0.000545, D: 0.045
+step: 22400
+total error: 1543.75
+best error: 920.065
+new parameters
+P: 0.088, I: 0.000455, D: 0.045
+step: 24000
+total error: 918.874
+best error: 920.065
+improvement!
+new parameters
+P: 0.09592, I: 0.000455, D: 0.045
+step: 25600
+total error: 869.709
+best error: 918.874
+improvement!
+new parameters
+P: 0.09592, I: 0.000455, D: 0.04995
+step: 27200
+total error: 1285.08
+best error: 869.709
+new parameters
+P: 0.09592, I: 0.000455, D: 0.04005
+step: 28800
+total error: 834.593
+best error: 869.709
+improvement!
+new parameters
+P: 0.09592, I: 0.0005045, D: 0.04005
+step: 30400
+total error: 1018.88
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.0004055, D: 0.04005
+step: 32000
+total error: 1320.15
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.000455, D: 0.04005
+step: 33600
+total error: 883.594
+best error: 834.593
+new parameters
+P: 0.104632, I: 0.000455, D: 0.04005
+step: 35200
+total error: 1036.69
+best error: 834.593
+new parameters
+P: 0.087208, I: 0.000455, D: 0.04005
+step: 36800
+total error: 1100.4
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.000455, D: 0.04005
+step: 38400
+total error: 892.804
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.000455, D: 0.045495
+step: 40000
+total error: 1345.18
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.000455, D: 0.034605
+step: 41600
+total error: 896.456
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.000455, D: 0.04005
+step: 43200
+total error: 982.57
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.00049955, D: 0.04005
+step: 44800
+total error: 1362.87
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.00041045, D: 0.04005
+step: 46400
+total error: 876.098
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.000455, D: 0.04005
+step: 48000
+total error: 1100.6
+best error: 834.593
+new parameters
+P: 0.103761, I: 0.000455, D: 0.04005
+step: 49600
+total error: 881.522
+best error: 834.593
+new parameters
+P: 0.0880792, I: 0.000455, D: 0.04005
+step: 51200
+total error: 980.352
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.000455, D: 0.04005
+step: 52800
+total error: 1471
+best error: 834.593
+new parameters
+P: 0.09592, I: 0.000455, D: 0.0449505
+step: 54400
+total error: 809.41
+best error: 834.593
+improvement!
+new parameters
+P: 0.09592, I: 0.000495095, D: 0.0449505
+step: 56000
+total error: 937.283
+best error: 809.41
+new parameters
+P: 0.09592, I: 0.000414905, D: 0.0449505
+step: 57600
+total error: 1284.12
+best error: 809.41
+new parameters
+P: 0.09592, I: 0.000455, D: 0.0449505
+step: 59200
+total error: 833.645
+best error: 809.41
+new parameters
+P: 0.102977, I: 0.000455, D: 0.0449505
+step: 60800
+total error: 883.042
+best error: 809.41
+new parameters
+P: 0.0888633, I: 0.000455, D: 0.0449505
+step: 62400
+total error: 1058.46
+best error: 809.41
+new parameters
+P: 0.09592, I: 0.000455, D: 0.0449505
+step: 64000
+total error: 819.092
+best error: 809.41
+new parameters
+P: 0.09592, I: 0.000455, D: 0.0503411
+step: 65600
+total error: 1250.09
+best error: 809.41
+new parameters
+P: 0.09592, I: 0.000455, D: 0.0395599
+step: 67200
+total error: 900.882
+best error: 809.41
+new parameters
+P: 0.09592, I: 0.000455, D: 0.0449505
+step: 68800
+total error: 841.706
+best error: 809.41
+new parameters
+P: 0.09592, I: 0.000491085, D: 0.0449505
+step: 70400
+total error: 1387.32
+best error: 809.41
+new parameters
+P: 0.09592, I: 0.000418915, D: 0.0449505
+step: 72000
+total error: 809.014
+best error: 809.41
+improvement!
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.0449505
+step: 73600
+total error: 792.727
+best error: 809.014
+improvement!
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.049802
+step: 75200
+total error: 1161.67
+best error: 792.727
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.040099
+step: 76800
+total error: 783.624
+best error: 792.727
+improvement!
+new parameters
+P: 0.102271, I: 0.000458609, D: 0.040099
+step: 78400
+total error: 969.066
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.00037922, D: 0.040099
+step: 80000
+total error: 1088.91
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.040099
+step: 81600
+total error: 821.893
+best error: 783.624
+new parameters
+P: 0.109257, I: 0.000418915, D: 0.040099
+step: 83200
+total error: 1170.82
+best error: 783.624
+new parameters
+P: 0.0952849, I: 0.000418915, D: 0.040099
+step: 84800
+total error: 907.744
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.040099
+step: 86400
+total error: 841.087
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.0454356
+step: 88000
+total error: 1208.7
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.0347624
+step: 89600
+total error: 830.484
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.040099
+step: 91200
+total error: 961.575
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.000454639, D: 0.040099
+step: 92800
+total error: 1231.16
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.00038319, D: 0.040099
+step: 94400
+total error: 802.002
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.040099
+step: 96000
+total error: 1267.07
+best error: 783.624
+new parameters
+P: 0.108559, I: 0.000418915, D: 0.040099
+step: 97600
+total error: 812.715
+best error: 783.624
+new parameters
+P: 0.0959835, I: 0.000418915, D: 0.040099
+step: 99200
+total error: 894.464
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.040099
+step: 100800
+total error: 1355
+best error: 783.624
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.044902
+step: 102400
+total error: 730.319
+best error: 783.624
+improvement!
+new parameters
+P: 0.102271, I: 0.000451067, D: 0.044902
+step: 104000
+total error: 791.89
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000386762, D: 0.044902
+step: 105600
+total error: 1182.91
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.044902
+step: 107200
+total error: 760.549
+best error: 730.319
+new parameters
+P: 0.10793, I: 0.000418915, D: 0.044902
+step: 108800
+total error: 838.53
+best error: 730.319
+new parameters
+P: 0.0966123, I: 0.000418915, D: 0.044902
+step: 110400
+total error: 1129.78
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.044902
+step: 112000
+total error: 762.606
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.0501853
+step: 113600
+total error: 928.777
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.0396187
+step: 115200
+total error: 899.56
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.044902
+step: 116800
+total error: 777.71
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000447851, D: 0.044902
+step: 118400
+total error: 1202.23
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000389978, D: 0.044902
+step: 120000
+total error: 730.328
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.044902
+step: 121600
+total error: 771.125
+best error: 730.319
+new parameters
+P: 0.107364, I: 0.000418915, D: 0.044902
+step: 123200
+total error: 1097.02
+best error: 730.319
+new parameters
+P: 0.0971781, I: 0.000418915, D: 0.044902
+step: 124800
+total error: 773.663
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.044902
+step: 126400
+total error: 889.71
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.0496569
+step: 128000
+total error: 843.941
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.040147
+step: 129600
+total error: 809.078
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.044902
+step: 131200
+total error: 1179.91
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000444958, D: 0.044902
+step: 132800
+total error: 741.76
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000392871, D: 0.044902
+step: 134400
+total error: 786.599
+best error: 730.319
+new parameters
+P: 0.102271, I: 0.000418915, D: 0.044902
+step: 136000
+total error: 1174.5
+best error: 730.319
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.044902
+step: 137600
+total error: 692.229
+best error: 730.319
+improvement!
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.0491814
+step: 139200
+total error: 809.088
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.0406225
+step: 140800
+total error: 1155.02
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.044902
+step: 142400
+total error: 718.638
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000442353, D: 0.044902
+step: 144000
+total error: 849.518
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000395476, D: 0.044902
+step: 145600
+total error: 821.876
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.044902
+step: 147200
+total error: 724.316
+best error: 692.229
+new parameters
+P: 0.111897, I: 0.000418915, D: 0.044902
+step: 148800
+total error: 1050.11
+best error: 692.229
+new parameters
+P: 0.101813, I: 0.000418915, D: 0.044902
+step: 150400
+total error: 757.904
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.044902
+step: 152000
+total error: 742.263
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.0487535
+step: 153600
+total error: 1122.1
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.0410505
+step: 155200
+total error: 729.129
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.044902
+step: 156800
+total error: 748.851
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.00044001, D: 0.044902
+step: 158400
+total error: 1107.05
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000397819, D: 0.044902
+step: 160000
+total error: 700.233
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.044902
+step: 161600
+total error: 841.323
+best error: 692.229
+new parameters
+P: 0.111392, I: 0.000418915, D: 0.044902
+step: 163200
+total error: 1042.47
+best error: 692.229
+new parameters
+P: 0.102317, I: 0.000418915, D: 0.044902
+step: 164800
+total error: 765.333
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.044902
+step: 166400
+total error: 843.347
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.0483683
+step: 168000
+total error: 808.005
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.0414356
+step: 169600
+total error: 755.696
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.044902
+step: 171200
+total error: 1129.64
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.0004379, D: 0.044902
+step: 172800
+total error: 776.65
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000399929, D: 0.044902
+step: 174400
+total error: 719.133
+best error: 692.229
+new parameters
+P: 0.106855, I: 0.000418915, D: 0.044902
+step: 176000
+total error: 1181.19
+best error: 692.229
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.044902
+step: 177600
+total error: 655.564
+best error: 692.229
+improvement!
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.0480217
+step: 179200
+total error: 669.125
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.0417823
+step: 180800
+total error: 1108.49
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.044902
+step: 182400
+total error: 666.834
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000436001, D: 0.044902
+step: 184000
+total error: 816.4
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000401828, D: 0.044902
+step: 185600
+total error: 815.924
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.044902
+step: 187200
+total error: 670.589
+best error: 655.564
+new parameters
+P: 0.115431, I: 0.000418915, D: 0.044902
+step: 188800
+total error: 991.775
+best error: 655.564
+new parameters
+P: 0.106446, I: 0.000418915, D: 0.044902
+step: 190400
+total error: 747.484
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.044902
+step: 192000
+total error: 706.939
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.0477097
+step: 193600
+total error: 1064.29
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.0420942
+step: 195200
+total error: 688.558
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.044902
+step: 196800
+total error: 700.32
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000434293, D: 0.044902
+step: 198400
+total error: 1062.02
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000403536, D: 0.044902
+step: 200000
+total error: 656.029
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.044902
+step: 201600
+total error: 815.816
+best error: 655.564
+new parameters
+P: 0.114982, I: 0.000418915, D: 0.044902
+step: 203200
+total error: 1000.31
+best error: 655.564
+new parameters
+P: 0.106896, I: 0.000418915, D: 0.044902
+step: 204800
+total error: 723.08
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.044902
+step: 206400
+total error: 810.702
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.047429
+step: 208000
+total error: 769.579
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.042375
+step: 209600
+total error: 728.641
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.044902
+step: 211200
+total error: 1061.4
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000432755, D: 0.044902
+step: 212800
+total error: 755.48
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000405074, D: 0.044902
+step: 214400
+total error: 689.463
+best error: 655.564
+new parameters
+P: 0.110939, I: 0.000418915, D: 0.044902
+step: 216000
+total error: 1062.64
+best error: 655.564
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.044902
+step: 217600
+total error: 628.059
+best error: 655.564
+improvement!
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0471763
+step: 219200
+total error: 665.609
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0426277
+step: 220800
+total error: 1043.38
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.044902
+step: 222400
+total error: 636.457
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000431371, D: 0.044902
+step: 224000
+total error: 760.1
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000406458, D: 0.044902
+step: 225600
+total error: 1010.58
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.044902
+step: 227200
+total error: 659.023
+best error: 628.059
+new parameters
+P: 0.11858, I: 0.000418915, D: 0.044902
+step: 228800
+total error: 747.755
+best error: 628.059
+new parameters
+P: 0.110575, I: 0.000418915, D: 0.044902
+step: 230400
+total error: 786.226
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.044902
+step: 232000
+total error: 662.638
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0469488
+step: 233600
+total error: 985.179
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0428551
+step: 235200
+total error: 712.56
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.044902
+step: 236800
+total error: 678.004
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000430125, D: 0.044902
+step: 238400
+total error: 1052.55
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000407704, D: 0.044902
+step: 240000
+total error: 638.762
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.044902
+step: 241600
+total error: 674.545
+best error: 628.059
+new parameters
+P: 0.11818, I: 0.000418915, D: 0.044902
+step: 243200
+total error: 977.335
+best error: 628.059
+new parameters
+P: 0.110975, I: 0.000418915, D: 0.044902
+step: 244800
+total error: 668.775
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.044902
+step: 246400
+total error: 778.098
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0467442
+step: 248000
+total error: 920.249
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0430598
+step: 249600
+total error: 697.445
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.044902
+step: 251200
+total error: 774.988
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000429004, D: 0.044902
+step: 252800
+total error: 740.559
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000408825, D: 0.044902
+step: 254400
+total error: 678.687
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.044902
+step: 256000
+total error: 1013.85
+best error: 628.059
+new parameters
+P: 0.11782, I: 0.000418915, D: 0.044902
+step: 257600
+total error: 670.323
+best error: 628.059
+new parameters
+P: 0.111335, I: 0.000418915, D: 0.044902
+step: 259200
+total error: 701.469
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.044902
+step: 260800
+total error: 1060.25
+best error: 628.059
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0465599
+step: 262400
+total error: 619.724
+best error: 628.059
+improvement!
+new parameters
+P: 0.114578, I: 0.000427995, D: 0.0465599
+step: 264000
+total error: 673.076
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000409834, D: 0.0465599
+step: 265600
+total error: 982.025
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0465599
+step: 267200
+total error: 625.659
+best error: 619.724
+new parameters
+P: 0.117495, I: 0.000418915, D: 0.0465599
+step: 268800
+total error: 649.026
+best error: 619.724
+new parameters
+P: 0.11166, I: 0.000418915, D: 0.0465599
+step: 270400
+total error: 1029.5
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0465599
+step: 272000
+total error: 626.377
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0483837
+step: 273600
+total error: 750.773
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0447362
+step: 275200
+total error: 922.601
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0465599
+step: 276800
+total error: 657.047
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000427087, D: 0.0465599
+step: 278400
+total error: 767.878
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000410742, D: 0.0465599
+step: 280000
+total error: 725.967
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0465599
+step: 281600
+total error: 650.959
+best error: 619.724
+new parameters
+P: 0.117204, I: 0.000418915, D: 0.0465599
+step: 283200
+total error: 961.324
+best error: 619.724
+new parameters
+P: 0.111951, I: 0.000418915, D: 0.0465599
+step: 284800
+total error: 705.328
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0465599
+step: 286400
+total error: 651.897
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0482013
+step: 288000
+total error: 986.432
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0449186
+step: 289600
+total error: 660.913
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000418915, D: 0.0465599
+step: 291200
+total error: 668.429
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.00042627, D: 0.0465599
+step: 292800
+total error: 1037.72
+best error: 619.724
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 294400
+total error: 613.88
+best error: 619.724
+improvement!
+new parameters
+P: 0.116941, I: 0.000411559, D: 0.0465599
+step: 296000
+total error: 651.145
+best error: 613.88
+new parameters
+P: 0.112214, I: 0.000411559, D: 0.0465599
+step: 297600
+total error: 1025.46
+best error: 613.88
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 299200
+total error: 613.12
+best error: 613.88
+improvement!
+new parameters
+P: 0.114578, I: 0.00041965, D: 0.0465599
+step: 300800
+total error: 774.237
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000403468, D: 0.0465599
+step: 302400
+total error: 989.479
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 304000
+total error: 624.345
+best error: 613.12
+new parameters
+P: 0.116705, I: 0.000411559, D: 0.0465599
+step: 305600
+total error: 730.767
+best error: 613.12
+new parameters
+P: 0.11245, I: 0.000411559, D: 0.0465599
+step: 307200
+total error: 758.079
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 308800
+total error: 659.718
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0481849
+step: 310400
+total error: 759.229
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.044935
+step: 312000
+total error: 759.054
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 313600
+total error: 650.156
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000418841, D: 0.0465599
+step: 315200
+total error: 1007.01
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000404277, D: 0.0465599
+step: 316800
+total error: 662.778
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 318400
+total error: 662.025
+best error: 613.12
+new parameters
+P: 0.116492, I: 0.000411559, D: 0.0465599
+step: 320000
+total error: 988.939
+best error: 613.12
+new parameters
+P: 0.112663, I: 0.000411559, D: 0.0465599
+step: 321600
+total error: 628.963
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 323200
+total error: 660.997
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0480224
+step: 324800
+total error: 976.179
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0450975
+step: 326400
+total error: 625.067
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 328000
+total error: 659.358
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000418113, D: 0.0465599
+step: 329600
+total error: 1008.08
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000405005, D: 0.0465599
+step: 331200
+total error: 631.157
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 332800
+total error: 752.829
+best error: 613.12
+new parameters
+P: 0.116301, I: 0.000411559, D: 0.0465599
+step: 334400
+total error: 996.782
+best error: 613.12
+new parameters
+P: 0.112854, I: 0.000411559, D: 0.0465599
+step: 336000
+total error: 662.066
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 337600
+total error: 764.763
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0478761
+step: 339200
+total error: 750.685
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0452437
+step: 340800
+total error: 663.792
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 342400
+total error: 831.244
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000417457, D: 0.0465599
+step: 344000
+total error: 722.292
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000405661, D: 0.0465599
+step: 345600
+total error: 645.255
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 347200
+total error: 991.125
+best error: 613.12
+new parameters
+P: 0.116128, I: 0.000411559, D: 0.0465599
+step: 348800
+total error: 631.174
+best error: 613.12
+new parameters
+P: 0.113027, I: 0.000411559, D: 0.0465599
+step: 350400
+total error: 665.008
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 352000
+total error: 1031.49
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0477445
+step: 353600
+total error: 618.639
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0453753
+step: 355200
+total error: 681.765
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 356800
+total error: 988.292
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000416868, D: 0.0465599
+step: 358400
+total error: 625.936
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000406251, D: 0.0465599
+step: 360000
+total error: 670.532
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 361600
+total error: 1000.07
+best error: 613.12
+new parameters
+P: 0.115973, I: 0.000411559, D: 0.0465599
+step: 363200
+total error: 620.363
+best error: 613.12
+new parameters
+P: 0.113182, I: 0.000411559, D: 0.0465599
+step: 364800
+total error: 778.149
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 366400
+total error: 964.212
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0476261
+step: 368000
+total error: 634.625
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0454938
+step: 369600
+total error: 769.84
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 371200
+total error: 737.505
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000416337, D: 0.0465599
+step: 372800
+total error: 649.116
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000406782, D: 0.0465599
+step: 374400
+total error: 855.544
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 376000
+total error: 731.683
+best error: 613.12
+new parameters
+P: 0.115834, I: 0.000411559, D: 0.0465599
+step: 377600
+total error: 641.316
+best error: 613.12
+new parameters
+P: 0.113321, I: 0.000411559, D: 0.0465599
+step: 379200
+total error: 1025.71
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 380800
+total error: 627.624
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0475195
+step: 382400
+total error: 667.343
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0456004
+step: 384000
+total error: 1040.37
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 385600
+total error: 625.463
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000415859, D: 0.0465599
+step: 387200
+total error: 663.982
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000407259, D: 0.0465599
+step: 388800
+total error: 986.246
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 390400
+total error: 623.051
+best error: 613.12
+new parameters
+P: 0.115708, I: 0.000411559, D: 0.0465599
+step: 392000
+total error: 660.111
+best error: 613.12
+new parameters
+P: 0.113447, I: 0.000411559, D: 0.0465599
+step: 393600
+total error: 1007.34
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 395200
+total error: 625.682
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0474235
+step: 396800
+total error: 750.043
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0456964
+step: 398400
+total error: 990.135
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 400000
+total error: 642.034
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000415429, D: 0.0465599
+step: 401600
+total error: 756.204
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000407689, D: 0.0465599
+step: 403200
+total error: 739.609
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 404800
+total error: 661.28
+best error: 613.12
+new parameters
+P: 0.115595, I: 0.000411559, D: 0.0465599
+step: 406400
+total error: 882.946
+best error: 613.12
+new parameters
+P: 0.11356, I: 0.000411559, D: 0.0465599
+step: 408000
+total error: 731.653
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 409600
+total error: 660.222
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0473371
+step: 411200
+total error: 994.648
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0457827
+step: 412800
+total error: 640.953
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000411559, D: 0.0465599
+step: 414400
+total error: 657.794
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000415042, D: 0.0465599
+step: 416000
+total error: 1049.37
+best error: 613.12
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 417600
+total error: 611.108
+best error: 613.12
+improvement!
+new parameters
+P: 0.115493, I: 0.000408076, D: 0.0465599
+step: 419200
+total error: 669.467
+best error: 611.108
+new parameters
+P: 0.113662, I: 0.000408076, D: 0.0465599
+step: 420800
+total error: 996.292
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 422400
+total error: 629.004
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0472594
+step: 424000
+total error: 710.929
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0458604
+step: 425600
+total error: 1002.92
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 427200
+total error: 626.689
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000411907, D: 0.0465599
+step: 428800
+total error: 773.389
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000404245, D: 0.0465599
+step: 430400
+total error: 874.197
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 432000
+total error: 644.072
+best error: 611.108
+new parameters
+P: 0.115402, I: 0.000408076, D: 0.0465599
+step: 433600
+total error: 752.752
+best error: 611.108
+new parameters
+P: 0.113753, I: 0.000408076, D: 0.0465599
+step: 435200
+total error: 733.861
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 436800
+total error: 654.808
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0471895
+step: 438400
+total error: 989.857
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0459304
+step: 440000
+total error: 666.872
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 441600
+total error: 663.06
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000411524, D: 0.0465599
+step: 443200
+total error: 1026.58
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000404628, D: 0.0465599
+step: 444800
+total error: 613.462
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 446400
+total error: 670.414
+best error: 611.108
+new parameters
+P: 0.115319, I: 0.000408076, D: 0.0465599
+step: 448000
+total error: 980.511
+best error: 611.108
+new parameters
+P: 0.113836, I: 0.000408076, D: 0.0465599
+step: 449600
+total error: 628.056
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 451200
+total error: 729.652
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0471265
+step: 452800
+total error: 997.409
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0459933
+step: 454400
+total error: 639.411
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 456000
+total error: 747.138
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000411179, D: 0.0465599
+step: 457600
+total error: 828.568
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000404973, D: 0.0465599
+step: 459200
+total error: 650.218
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 460800
+total error: 766.606
+best error: 611.108
+new parameters
+P: 0.115245, I: 0.000408076, D: 0.0465599
+step: 462400
+total error: 734.79
+best error: 611.108
+new parameters
+P: 0.11391, I: 0.000408076, D: 0.0465599
+step: 464000
+total error: 645.24
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 465600
+total error: 993.915
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0470699
+step: 467200
+total error: 672.867
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.04605
+step: 468800
+total error: 660.442
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 470400
+total error: 1010.15
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000410869, D: 0.0465599
+step: 472000
+total error: 627.77
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000405283, D: 0.0465599
+step: 473600
+total error: 659.938
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 475200
+total error: 995.371
+best error: 611.108
+new parameters
+P: 0.115178, I: 0.000408076, D: 0.0465599
+step: 476800
+total error: 613.012
+best error: 611.108
+new parameters
+P: 0.113977, I: 0.000408076, D: 0.0465599
+step: 478400
+total error: 699.146
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 480000
+total error: 975.706
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0470189
+step: 481600
+total error: 629.646
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.046101
+step: 483200
+total error: 764.772
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 484800
+total error: 832.624
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.00041059, D: 0.0465599
+step: 486400
+total error: 643.474
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000405563, D: 0.0465599
+step: 488000
+total error: 760.184
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 489600
+total error: 733.683
+best error: 611.108
+new parameters
+P: 0.115118, I: 0.000408076, D: 0.0465599
+step: 491200
+total error: 649.326
+best error: 611.108
+new parameters
+P: 0.114037, I: 0.000408076, D: 0.0465599
+step: 492800
+total error: 1002.41
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 494400
+total error: 687.183
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.046973
+step: 496000
+total error: 662.356
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0461469
+step: 497600
+total error: 1018.26
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 499200
+total error: 630.986
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000410338, D: 0.0465599
+step: 500800
+total error: 664.558
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000405814, D: 0.0465599
+step: 502400
+total error: 1028.62
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 504000
+total error: 618.828
+best error: 611.108
+new parameters
+P: 0.115064, I: 0.000408076, D: 0.0465599
+step: 505600
+total error: 654.771
+best error: 611.108
+new parameters
+P: 0.114091, I: 0.000408076, D: 0.0465599
+step: 507200
+total error: 1007
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 508800
+total error: 628.818
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0469317
+step: 510400
+total error: 751.973
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0461882
+step: 512000
+total error: 917.655
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 513600
+total error: 636.817
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000410112, D: 0.0465599
+step: 515200
+total error: 754.198
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.00040604, D: 0.0465599
+step: 516800
+total error: 729.073
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 518400
+total error: 652.991
+best error: 611.108
+new parameters
+P: 0.115015, I: 0.000408076, D: 0.0465599
+step: 520000
+total error: 979.552
+best error: 611.108
+new parameters
+P: 0.11414, I: 0.000408076, D: 0.0465599
+step: 521600
+total error: 715.159
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 523200
+total error: 657.488
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0468945
+step: 524800
+total error: 1013.11
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0462254
+step: 526400
+total error: 631.79
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 528000
+total error: 649.592
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000409909, D: 0.0465599
+step: 529600
+total error: 1023.25
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000406244, D: 0.0465599
+step: 531200
+total error: 633.991
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 532800
+total error: 657.988
+best error: 611.108
+new parameters
+P: 0.114972, I: 0.000408076, D: 0.0465599
+step: 534400
+total error: 1004.64
+best error: 611.108
+new parameters
+P: 0.114183, I: 0.000408076, D: 0.0465599
+step: 536000
+total error: 623.043
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 537600
+total error: 758.47
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.046861
+step: 539200
+total error: 985.208
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0462588
+step: 540800
+total error: 641.464
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 542400
+total error: 762.884
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000409725, D: 0.0465599
+step: 544000
+total error: 748.855
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000406427, D: 0.0465599
+step: 545600
+total error: 641.823
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 547200
+total error: 908.488
+best error: 611.108
+new parameters
+P: 0.114932, I: 0.000408076, D: 0.0465599
+step: 548800
+total error: 726.605
+best error: 611.108
+new parameters
+P: 0.114223, I: 0.000408076, D: 0.0465599
+step: 550400
+total error: 662.292
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 552000
+total error: 997.871
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0468309
+step: 553600
+total error: 635.427
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0462889
+step: 555200
+total error: 660.919
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 556800
+total error: 1043.41
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000409561, D: 0.0465599
+step: 558400
+total error: 621.216
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000406592, D: 0.0465599
+step: 560000
+total error: 653.197
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 561600
+total error: 996.856
+best error: 611.108
+new parameters
+P: 0.114897, I: 0.000408076, D: 0.0465599
+step: 563200
+total error: 626.855
+best error: 611.108
+new parameters
+P: 0.114258, I: 0.000408076, D: 0.0465599
+step: 564800
+total error: 738.269
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 566400
+total error: 991.292
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0468038
+step: 568000
+total error: 632.701
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.046316
+step: 569600
+total error: 752.362
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 571200
+total error: 768.296
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000409412, D: 0.0465599
+step: 572800
+total error: 646.853
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.00040674, D: 0.0465599
+step: 574400
+total error: 807.995
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 576000
+total error: 742.624
+best error: 611.108
+new parameters
+P: 0.114865, I: 0.000408076, D: 0.0465599
+step: 577600
+total error: 659.771
+best error: 611.108
+new parameters
+P: 0.11429, I: 0.000408076, D: 0.0465599
+step: 579200
+total error: 996.38
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 580800
+total error: 671.303
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0467794
+step: 582400
+total error: 665.164
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0463404
+step: 584000
+total error: 1031.36
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 585600
+total error: 631.666
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000409278, D: 0.0465599
+step: 587200
+total error: 668.942
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000406874, D: 0.0465599
+step: 588800
+total error: 995.728
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 590400
+total error: 618.9
+best error: 611.108
+new parameters
+P: 0.114836, I: 0.000408076, D: 0.0465599
+step: 592000
+total error: 663.931
+best error: 611.108
+new parameters
+P: 0.114319, I: 0.000408076, D: 0.0465599
+step: 593600
+total error: 1005.66
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 595200
+total error: 623.967
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0467575
+step: 596800
+total error: 750.939
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0463624
+step: 598400
+total error: 978.863
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 600000
+total error: 646.85
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000409158, D: 0.0465599
+step: 601600
+total error: 762.668
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000406994, D: 0.0465599
+step: 603200
+total error: 737.51
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 604800
+total error: 646.233
+best error: 611.108
+new parameters
+P: 0.11481, I: 0.000408076, D: 0.0465599
+step: 606400
+total error: 959.849
+best error: 611.108
+new parameters
+P: 0.114345, I: 0.000408076, D: 0.0465599
+step: 608000
+total error: 716.93
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 609600
+total error: 648.706
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0467377
+step: 611200
+total error: 1007.26
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0463821
+step: 612800
+total error: 656.555
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 614400
+total error: 658.374
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.00040905, D: 0.0465599
+step: 616000
+total error: 1021.03
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000407102, D: 0.0465599
+step: 617600
+total error: 622.058
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 619200
+total error: 664.316
+best error: 611.108
+new parameters
+P: 0.114787, I: 0.000408076, D: 0.0465599
+step: 620800
+total error: 989.737
+best error: 611.108
+new parameters
+P: 0.114368, I: 0.000408076, D: 0.0465599
+step: 622400
+total error: 623.457
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 624000
+total error: 682.609
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.04672
+step: 625600
+total error: 1011.77
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0463999
+step: 627200
+total error: 628.109
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 628800
+total error: 762.811
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408953, D: 0.0465599
+step: 630400
+total error: 958.566
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.0004072, D: 0.0465599
+step: 632000
+total error: 655.555
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 633600
+total error: 765.726
+best error: 611.108
+new parameters
+P: 0.114766, I: 0.000408076, D: 0.0465599
+step: 635200
+total error: 733.464
+best error: 611.108
+new parameters
+P: 0.114389, I: 0.000408076, D: 0.0465599
+step: 636800
+total error: 659.568
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 638400
+total error: 842.485
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.046704
+step: 640000
+total error: 733.59
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0464159
+step: 641600
+total error: 648.534
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 643200
+total error: 1010.98
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408865, D: 0.0465599
+step: 644800
+total error: 629.055
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000407287, D: 0.0465599
+step: 646400
+total error: 669.517
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 648000
+total error: 1034.35
+best error: 611.108
+new parameters
+P: 0.114747, I: 0.000408076, D: 0.0465599
+step: 649600
+total error: 611.367
+best error: 611.108
+new parameters
+P: 0.114408, I: 0.000408076, D: 0.0465599
+step: 651200
+total error: 671.737
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 652800
+total error: 987.815
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0466896
+step: 654400
+total error: 623.294
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0464303
+step: 656000
+total error: 663.41
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 657600
+total error: 1002.76
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408786, D: 0.0465599
+step: 659200
+total error: 620.559
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000407366, D: 0.0465599
+step: 660800
+total error: 771.982
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 662400
+total error: 982.323
+best error: 611.108
+new parameters
+P: 0.11473, I: 0.000408076, D: 0.0465599
+step: 664000
+total error: 653.568
+best error: 611.108
+new parameters
+P: 0.114425, I: 0.000408076, D: 0.0465599
+step: 665600
+total error: 758.225
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 667200
+total error: 738.495
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0466766
+step: 668800
+total error: 636.492
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0464433
+step: 670400
+total error: 881.332
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 672000
+total error: 723.477
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408715, D: 0.0465599
+step: 673600
+total error: 663.65
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000407437, D: 0.0465599
+step: 675200
+total error: 1013.29
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 676800
+total error: 624.358
+best error: 611.108
+new parameters
+P: 0.114715, I: 0.000408076, D: 0.0465599
+step: 678400
+total error: 659.528
+best error: 611.108
+new parameters
+P: 0.11444, I: 0.000408076, D: 0.0465599
+step: 680000
+total error: 1055.33
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 681600
+total error: 624.44
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0466649
+step: 683200
+total error: 666.904
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0464549
+step: 684800
+total error: 990.586
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 686400
+total error: 618.531
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408651, D: 0.0465599
+step: 688000
+total error: 730.595
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000407501, D: 0.0465599
+step: 689600
+total error: 1000.38
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 691200
+total error: 625.831
+best error: 611.108
+new parameters
+P: 0.114701, I: 0.000408076, D: 0.0465599
+step: 692800
+total error: 752.658
+best error: 611.108
+new parameters
+P: 0.114454, I: 0.000408076, D: 0.0465599
+step: 694400
+total error: 831.597
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 696000
+total error: 642.831
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0466544
+step: 697600
+total error: 776.019
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0464654
+step: 699200
+total error: 739.698
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 700800
+total error: 640.582
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408594, D: 0.0465599
+step: 702400
+total error: 1004.75
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000407559, D: 0.0465599
+step: 704000
+total error: 703.201
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 705600
+total error: 656.048
+best error: 611.108
+new parameters
+P: 0.114689, I: 0.000408076, D: 0.0465599
+step: 707200
+total error: 1016.5
+best error: 611.108
+new parameters
+P: 0.114466, I: 0.000408076, D: 0.0465599
+step: 708800
+total error: 636.195
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 710400
+total error: 662.652
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.046645
+step: 712000
+total error: 1019.51
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0464749
+step: 713600
+total error: 626.721
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 715200
+total error: 669.045
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408542, D: 0.0465599
+step: 716800
+total error: 1003.88
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.00040761, D: 0.0465599
+step: 718400
+total error: 617.645
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 720000
+total error: 653.431
+best error: 611.108
+new parameters
+P: 0.114678, I: 0.000408076, D: 0.0465599
+step: 721600
+total error: 1009.68
+best error: 611.108
+new parameters
+P: 0.114477, I: 0.000408076, D: 0.0465599
+step: 723200
+total error: 622.244
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 724800
+total error: 744.872
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0466365
+step: 726400
+total error: 995.909
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0464834
+step: 728000
+total error: 632.258
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 729600
+total error: 767.773
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408495, D: 0.0465599
+step: 731200
+total error: 938.507
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000407657, D: 0.0465599
+step: 732800
+total error: 657.648
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 734400
+total error: 768.179
+best error: 611.108
+new parameters
+P: 0.114668, I: 0.000408076, D: 0.0465599
+step: 736000
+total error: 726.393
+best error: 611.108
+new parameters
+P: 0.114487, I: 0.000408076, D: 0.0465599
+step: 737600
+total error: 651.55
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 739200
+total error: 995.476
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0466288
+step: 740800
+total error: 699.508
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.046491
+step: 742400
+total error: 662.356
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 744000
+total error: 1011.4
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408454, D: 0.0465599
+step: 745600
+total error: 635.761
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000407699, D: 0.0465599
+step: 747200
+total error: 664.988
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 748800
+total error: 1042.79
+best error: 611.108
+new parameters
+P: 0.114659, I: 0.000408076, D: 0.0465599
+step: 750400
+total error: 612.278
+best error: 611.108
+new parameters
+P: 0.114496, I: 0.000408076, D: 0.0465599
+step: 752000
+total error: 673.346
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 753600
+total error: 989.211
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0466219
+step: 755200
+total error: 629.943
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0464979
+step: 756800
+total error: 739.642
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408076, D: 0.0465599
+step: 758400
+total error: 1008.56
+best error: 611.108
+new parameters
+P: 0.114578, I: 0.000408416, D: 0.0465599
+
+Process finished with exit code 15
+

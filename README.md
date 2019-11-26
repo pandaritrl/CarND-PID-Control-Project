@@ -10,23 +10,53 @@ provides the throttle and steer value for longitudinal and lateral control.
 
 _Describe the effect each of the P, I, D components had in your implementation._
 
-Only With Kp
+Only With Kp:
+Proportional control (Kp) makes the car steer to the right if the car is on the left. It steers to the left if the car
+is on the right. As long as the CTE is non-zero, steering value is non-zero. Since the car approaches the trajectory at 
+a large heading angle. The car keeps oscillating about the trajectory with only Kp control as show in the video below. 
 
-[![Only With Kp](https://www.youtube.com/channel/UCOmLbvpSUozxJM-cS8ggDLA/)](https://youtu.be/CTqjJojyRcU)
-
-
-With Kp and Kd
-
-[![With Kp and Kd](https://img.youtube.com/vi/EmjfKmmYXx0/0.jpg)](https://youtu.be/_SQNph693kM)
+[![Only With Kp](./data/mq2.jpg)](https://youtu.be/CTqjJojyRcU)
 
 
-With twiddle tuned PID
+With Kp and Kd:
+Kd damps the controls. As the cte starts reducing, this compensates the steering angle so that the car can approach 
+the trajectory smoothly with a small heading angle to the trajectory. This almost makes the control perfect enough.
 
-[![With twiddle tuned PID](https://img.youtube.com/vi/EmjfKmmYXx0/0.jpg)](https://youtu.be/736S8ZEYA3U)
+[![With Kp and Kd](./data/mq2.jpg)](https://youtu.be/_SQNph693kM)
+
+
+With twiddle tuned PID:
+
+Since Kp and Kd does not make the car stay on the trajectory over a long time. A small amount of Ki is added to bring
+ the back to the center. The car stays at the center as shown in the video below:
+
+[![With twiddle tuned PID](./data/mq2.jpg)](https://youtu.be/736S8ZEYA3U)
 
 
 _Describe how the final hyperparameters were chosen._
 
+Twiddle method was used for tuning the PID algorithm. The logs are shown in tuningLog file. Initially the car was tuned 
+manually to keep the car in the trajectory manually. Later Twiddle tuning was done to check the sensitivity and cost for 
+each change. If the change is more optimal then the change is incorporated into the system for the next iteration. For 
+each iteration the car went through the entire loop.
+![twiddle tuning](./data/twiddle.png)
+
+Sample log is shown below for illustration:
+
+_new parameters<br>
+ P: 0.088, I: 0.0005, D: 0.055<br>
+ step: 4800<br>
+ total error: 1470.24<br>
+ best error: 1093.24<br>
+ new parameters<br>
+ P: 0.088, I: 0.0005, D: 0.045<br>
+ step: 6400<br>
+ total error: 920.065<br>
+ best error: 1093.24<br>
+ improvement!<br>
+ new parameters<br>
+ P: 0.088, I: 0.00055, D: 0.045<br>_
+ 
 ## Original Question ReadMe
 
 ## Dependencies
