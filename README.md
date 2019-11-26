@@ -3,8 +3,8 @@ Self-Driving Car Engineer Nanodegree Program
 
 ## Introduction
 The purpose of this project was to build a PID controller and tune the controller to drive a car on a
-simulator given the cross track error (CTE) and speed of the vehicle via uws socket. The controller 
-provides the throttle and steer value for longitudinal and lateral control.
+simulator given the cross track error (CTE) and speed of the vehicle via uws socket. Two separate controllers were used  
+to provide the throttle and steer value for longitudinal and lateral control.
 
 ## Rubric
 
@@ -34,6 +34,9 @@ Since Kp and Kd does not make the car stay on the trajectory over a long time. A
 
 
 _Describe how the final hyperparameters were chosen._
+
+A proportional controller was used for longitudinal control to slow down the at sharp turns where CTE was high. A maximum
+throttle of 0.4 seemed optimal for this case. 
 
 Twiddle method was used for tuning the PID algorithm. The logs are shown in tuningLog file. Initially the car was tuned 
 manually to keep the car in the trajectory manually. Later Twiddle tuning was done to check the sensitivity and cost for 
